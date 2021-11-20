@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.69494943155097,
+                    30.32633089073543,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #1",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7000-block-grand-canyon-drive\">http://www.austintexas.gov/news/homicide-7000-block-grand-canyon-drive</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.78735067089119,
+                    30.21875655769843,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #2",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-5000-brighton-road\">http://www.austintexas.gov/news/homicide-5000-brighton-road</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.71736888986983,
+                    30.2384853715651,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "homicde #3",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-4600-elmont-drive\">http://www.austintexas.gov/news/homicide-4600-elmont-drive</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.75564439414735,
+                    30.30901580403473,
+                    48
+                ]
+            },
+            "properties": {
+                "name": "homicde #4",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1912-w-35th-street\">http://www.austintexas.gov/news/homicide-1912-w-35th-street</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.700998099995,
+                    30.36974769974557,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "homicde #5",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1126-mearns-meadow\">http://www.austintexas.gov/news/homicide-1126-mearns-meadow</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.67834363014912,
+                    30.30724602005649,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "homicide #6",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-6103-manor-road\">http://www.austintexas.gov/news/homicide-6103-manor-road</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.72983736340628,
+                    30.23029924359017,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #7",
+                "description": "<a href=\"http://austintexas.gov/news/homicide-2201-willow-creek-dr\">austintexas.gov/news/homicide-2201-willow-creek-dr</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.70529996056818,
+                    30.33234160860814,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "homicide #8",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7100-block-n-ih-35-svrd-sb\">http://www.austintexas.gov/news/homicide-7100-block-n-ih-35-svrd-sb</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.72296743515949,
+                    30.28862529275488,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #9",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-4200-block-s-ih-35-svrd-sb\">http://www.austintexas.gov/news/homicide-4200-block-s-ih-35-svrd-sb</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.69056471600268,
+                    30.32905883418469,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #10",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-cameron-road-and-mckie-drive\">http://www.austintexas.gov/news/homicide-cameron-road-and-mckie-drive</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.69699374292597,
+                    30.20310186290174,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #11",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7000-block-tonka-lane\">http://www.austintexas.gov/news/homicide-7000-block-tonka-lane</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.71776459578426,
+                    30.33934479539794,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #12",
+                "description": "<a href=\"http://austintexas.gov/news/homicide-800-block-w-st-johns-avenue\">austintexas.gov/news/homicide-800-block-w-st-johns-avenue</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.73624091172647,
+                    30.26701438266003,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #13",
+                "description": "<a href=\"https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data\">https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.70060590059788,
+                    30.34981071397068,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #14",
+                "description": "<a href=\"https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data\">https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.72661335010037,
+                    30.23897973888241,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #15",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-2200-block-e-riverside-drive\">http://www.austintexas.gov/news/homicide-2200-block-e-riverside-drive</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.75569192219554,
+                    30.42469620113209,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #16",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-11900-block-pavilion-blvd\">http://www.austintexas.gov/news/homicide-11900-block-pavilion-blvd</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.79201271371161,
+                    30.20571604934064,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #17",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1100-block-kenyon-drive\">http://www.austintexas.gov/news/homicide-1100-block-kenyon-drive</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.67893413687946,
+                    30.31544428935332,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #18",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-6600-block-bradley-dr\">http://www.austintexas.gov/news/homicide-6600-block-bradley-dr</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.67835186736458,
+                    30.37469209369873,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #19",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-11100-block-n-ih-35-svrd\">http://www.austintexas.gov/news/homicide-11100-block-n-ih-35-svrd</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.83670739306731,
+                    30.43628594025407,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #20",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-9700-block-n-fm-620\">austintexas.gov/news/homicide-9700-block-n-fm-620</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.71978999707109,
+                    30.29364813025807,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #21",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-12000-block-dessau-road\">http://www.austintexas.gov/news/homicide-12000-block-dessau-road</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.76995399996792,
+                    30.18065919965601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Homicide #22",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7300-block-bluff-springs-rd\">http://www.austintexas.gov/news/homicide-7300-block-bluff-springs-rd</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.698061500154,
+                    30.36454770030493,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #23",
+                "description": "<a href=\"http://www.austintexas.gov/news/homicide-9400-block-north-lamar-blvd\">http://www.austintexas.gov/news/homicide-9400-block-north-lamar-blvd</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.74751323540919,
+                    30.39477927078712,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #24",
+                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.74736974921427,
+                    30.3951951374641,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #25",
+                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.74789850183788,
+                    30.39470626540244,
+                    50.00000000000001
+                ]
+            },
+            "properties": {
+                "name": "Homicide #26",
+                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
+            }
+        }
+    ]
+}
