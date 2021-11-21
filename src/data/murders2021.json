@@ -1,1 +1,677 @@
-{"datasets":[{"version":"v1","data":{"id":"w9g1bzft8","label":"murders2021.json","color":[143,47,191],"allData":[["05/05/2021","5200 BLOCK TOWER TRL",78723,30.29017709,-97.6701978],["06/20/2021","11517 ROBERT WOODING DR",78748,30.15003075,-97.82826927],["07/12/2021","10242 MISSEL THRUSH DR",78750,30.4494991,-97.80220254],["01/26/2021","1912 W 35TH ST",78731,30.30899939,-97.75570273],["02/28/2021","811 W ST JOHNS AVE",78757,30.33966701,-97.7189541],["02/03/2021","2400 BLOCK ANKEN DR",78741,30.23059859,-97.72811131],["02/16/2021","CAMERON RD / CORONADO HILLS DR",78752,30.32903752,-97.69041232],["10/09/2021","600 BLOCK SABINE ST",78701,30.26654729,-97.73619041],["02/16/2021","4200 S IH 35 SVRD SB",78745,30.21494929,-97.7537948],["04/18/2021","9600 GREAT HILLS TRL",78759,30.39541162,-97.75416032],["04/29/2021","2022 E SLAUGHTER LN",78747,30.15200201,-97.76304468],["10/26/2021","11001 SPICEWOOD PKWY",78750,30.43500194,-97.79982192],["10/18/2021","5828 ABBY ANN LN",78747,30.13885561,-97.76756789],["03/07/2021","2430 CROMWELL CIR",78741,30.22664019,-97.7210571],["01/29/2021","1126 MEARNS MEADOW BLVD",78758,30.37008253,-97.70116627],["05/23/2021","9600 BLOCK E US 290 HWY SVRD WB",78754,30.33133078,-97.6230618],["06/12/2021","1930 W RUNDBERG LN",78758,30.37306027,-97.71738905],["02/14/2021","7100 N IH 35 SVRD SB",78752,30.33219866,-97.70517709],["06/24/2021","7201 E MEADOW BEND DR",78724,30.2981372,-97.62637116],["03/28/2021","11105 N IH 35 SVRD NB",78753,30.37472693,-97.67683667],["10/06/2021","2827 PALOMINO TRL",78744,30.20934826,-97.69313596],["01/11/2021","6900 BLOCK GRAND CANYON DR",78752,30.32547926,-97.69552226],["03/31/2021","9715 N FM 620 RD",78726,30.43679351,-97.83820902],["09/09/2021","7701 CAMERON RD",78752,30.33186118,-97.68649848],["09/03/2021","9345 E US 290 HWY SVRD EB",78724,30.32884413,-97.64198083],["09/04/2021","9400 N IH 35 NB",78753,30.42161507,-97.67203122],["06/27/2021","7247 CAMERON RD",78752,30.32755039,-97.69098571],["09/20/2021","4711 BANDERA RD",78721,30.28300412,-97.68200396],["08/02/2021","10102 N LAMAR BLVD",78758,30.37063409,-97.69320873],["05/31/2021","2511 GREENLAND LN",78745,30.20069652,-97.81580711],["06/11/2021","4123 TODD LN",78744,30.20936128,-97.73762972],["07/23/2021","2000 S IH 35 SVRD SB",78704,30.23755668,-97.73961811],["03/25/2021","1109 KENYON DR",78745,30.20568816,-97.79199208],["03/18/2021","106 OERTLI LN",78753,30.34992284,-97.70065719],["10/03/2021","502 W LONGSPUR BLVD",78753,30.36685701,-97.69196728],["10/09/2021","9601 N IH 35 SVRD NB",78753,30.3603907,-97.68595659],["09/01/2021","2400 E RIVERSIDE DR",78741,30.23617884,-97.7247236],["09/12/2021","W 6TH ST / NUECES ST",78701,30.26962764,-97.74843013],["03/27/2021","6601 BRADLEY DR",78723,30.31512549,-97.67880085],["08/11/2021","8100 N MOPAC EXPY SVRD SB",78759,30.36620832,-97.74364355],["02/02/2021","6103 MANOR RD",78723,30.30755468,-97.67805181],["03/21/2021","2209 E RIVERSIDE DR",78741,30.23931325,-97.72683724],["05/02/2021","500 E 6TH ST",78701,30.26704868,-97.73799564],["09/27/2021","8408 GARCREEK CIR",78724,30.29479946,-97.62877532],["08/01/2021","1400 E 38TH HALF ST",78722,30.29352029,-97.71606489],["10/23/2021","6407 HICKMAN AVE",78723,30.31721666,-97.68895763],["05/15/2021","4511 LITTLE HILL CIR",78725,30.28044967,-97.66177366],["10/31/2021","526 W OLTORF ST",78704,30.24178794,-97.75876698],["10/27/2021","11400 N IH 35 SVRD SB",78753,30.37856547,-97.67585857],["04/14/2021","9422 N LAMAR BLVD",78758,30.36417602,-97.69694417],["11/04/2021","601 W ST JOHNS AVE",78752,30.3377148,-97.71480249],["11/01/2021","8404 GARCREEK CIR",78724,30.29462672,-97.62919219],["11/04/2021","8220 W SH 71",78735,30.24674667,-97.88732546],["04/06/2021","7330 BLUFF SPRINGS RD",78744,30.17952332,-97.77026779],["03/14/2021","617 E 7TH ST",78701,30.26695865,-97.73613182],["03/22/2021","11901 PAVILION BLVD",78759,30.42460539,-97.75437566],["06/07/2021","E 6TH ST / NECHES ST",78701,30.26678161,-97.73825313],["05/20/2021","E 7TH ST / N IH 35 SVRD SB",78701,30.26681904,-97.73467173],["01/22/2021","4600 ELMONT DR",78741,30.23973544,-97.71651845],["07/17/2021","E 6TH ST / NECHES ST",78701,30.26678161,-97.73825313],["02/06/2021","7100 N IH 35 SVRD SB",78752,30.33219866,-97.70517709],["09/01/2021","2100 BURTON DR",78741,30.23234342,-97.73276777],["06/12/2021","400 E 6TH ST",78701,30.26735144,-97.73909331],["06/23/2021","3811 E 12TH ST",78721,30.27676798,-97.69034135],["09/14/2021","CAMERON RD / RUTHERFORD LN",78754,30.33733388,-97.68327579],["09/12/2021","7601 N LAMAR BLVD SVRD NB",78752,30.34515237,-97.71375392],["06/25/2021","1100 W PARMER LN",78753,30.40860001,-97.67879401],["07/07/2021","8305 SWALLOW CT",78758,30.35284649,-97.70803637]],"fields":[{"name":"Occurred Date","type":"date","format":"YYYY/M/D","analyzerType":"DATE"},{"name":"Address","type":"string","format":"","analyzerType":"STRING"},{"name":"Zip Code","type":"integer","format":"","analyzerType":"INT"},{"name":"Latitude","type":"real","format":"","analyzerType":"FLOAT"},{"name":"Longitude","type":"real","format":"","analyzerType":"FLOAT"}]}}],"config":{"version":"v1","config":{"visState":{"filters":[],"layers":[{"id":"rbm7cln","type":"point","config":{"dataId":"w9g1bzft8","label":"Point","color":[255,203,153],"highlightColor":[252,242,26,255],"columns":{"lat":"Latitude","lng":"Longitude","altitude":null},"isVisible":true,"visConfig":{"radius":10,"fixedRadius":false,"opacity":0.8,"outline":false,"thickness":2,"strokeColor":null,"colorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"strokeColorRange":{"name":"Global Warming","type":"sequential","category":"Uber","colors":["#5A1846","#900C3F","#C70039","#E3611C","#F1920E","#FFC300"]},"radiusRange":[0,50],"filled":true},"hidden":false,"textLabel":[{"field":null,"color":[255,255,255],"size":18,"offset":[0,0],"anchor":"start","alignment":"center"}]},"visualChannels":{"colorField":null,"colorScale":"quantile","strokeColorField":null,"strokeColorScale":"quantile","sizeField":null,"sizeScale":"linear"}}],"interactionConfig":{"tooltip":{"fieldsToShow":{"w9g1bzft8":[{"name":"Occurred Date","format":null},{"name":"Address","format":null},{"name":"Zip Code","format":null},{"name":"Latitude","format":null},{"name":"Longitude","format":null}]},"compareMode":false,"compareType":"absolute","enabled":true},"brush":{"size":0.5,"enabled":false},"geocoder":{"enabled":false},"coordinate":{"enabled":false}},"layerBlending":"normal","splitMaps":[],"animationConfig":{"currentTime":null,"speed":1}},"mapState":{"bearing":0,"dragRotate":false,"latitude":30.294177355000002,"longitude":-97.75519363000001,"pitch":0,"zoom":9,"isSplit":false},"mapStyle":{"styleType":"dark","topLayerGroups":{},"visibleLayerGroups":{"label":true,"road":true,"border":false,"building":true,"water":true,"land":true,"3d building":false},"threeDBuildingColor":[9.665468314072013,17.18305478057247,31.1442867897876],"mapStyles":{}}}},"info":{"app":"kepler.gl","created_at":"Wed Nov 17 2021 18:24:20 GMT-0600 (Central Standard Time)","title":"keplergl_bi70u0i","description":""}}
+[
+  {
+    "Longitude": -97.7210571,
+    "Latitude": 30.22664019,
+    "Occurred Date": "03/07/2021",
+    "Address": "2430 CROMWELL CIR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.6701978,
+    "Latitude": 30.29017709,
+    "Occurred Date": "05/05/2021",
+    "Address": "5200 BLOCK TOWER TRL",
+    "Zip Code": 78723,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.82826927,
+    "Latitude": 30.15003075,
+    "Occurred Date": "06/20/2021",
+    "Address": "11517 ROBERT WOODING DR",
+    "Zip Code": 78748,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.80220254,
+    "Latitude": 30.4494991,
+    "Occurred Date": "07/12/2021",
+    "Address": "10242 MISSEL THRUSH DR",
+    "Zip Code": 78750,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.75570273,
+    "Latitude": 30.30899939,
+    "Occurred Date": "01/26/2021",
+    "Address": "1912 W 35TH ST",
+    "Zip Code": 78731,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.7189541,
+    "Latitude": 30.33966701,
+    "Occurred Date": "02/28/2021",
+    "Address": "811 W ST JOHNS AVE",
+    "Zip Code": 78757,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73619041,
+    "Latitude": 30.26654729,
+    "Occurred Date": "10/09/2021",
+    "Address": "600 BLOCK SABINE ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.7537948,
+    "Latitude": 30.21494929,
+    "Occurred Date": "02/16/2021",
+    "Address": "4200 S IH 35 SVRD SB",
+    "Zip Code": 78745,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.79982192,
+    "Latitude": 30.43500194,
+    "Occurred Date": "10/26/2021",
+    "Address": "11001 SPICEWOOD PKWY",
+    "Zip Code": 78750,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.72811131,
+    "Latitude": 30.23059859,
+    "Occurred Date": "02/03/2021",
+    "Address": "2400 BLOCK ANKEN DR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.76756789,
+    "Latitude": 30.13885561,
+    "Occurred Date": "10/18/2021",
+    "Address": "5828 ABBY ANN LN",
+    "Zip Code": 78747,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.6230618,
+    "Latitude": 30.33133078,
+    "Occurred Date": "05/23/2021",
+    "Address": "9600 BLOCK E US 290 HWY SVRD WB",
+    "Zip Code": 78754,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67683667,
+    "Latitude": 30.37472693,
+    "Occurred Date": "03/28/2021",
+    "Address": "11105 N IH 35 SVRD NB",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.75416032,
+    "Latitude": 30.39541162,
+    "Occurred Date": "04/18/2021",
+    "Address": "9600 GREAT HILLS TRL",
+    "Zip Code": 78759,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.76304468,
+    "Latitude": 30.15200201,
+    "Occurred Date": "04/29/2021",
+    "Address": "2022 E SLAUGHTER LN",
+    "Zip Code": 78747,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.70116627,
+    "Latitude": 30.37008253,
+    "Occurred Date": "01/29/2021",
+    "Address": "1126 MEARNS MEADOW BLVD",
+    "Zip Code": 78758,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.71738905,
+    "Latitude": 30.37306027,
+    "Occurred Date": "06/12/2021",
+    "Address": "1930 W RUNDBERG LN",
+    "Zip Code": 78758,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.62637116,
+    "Latitude": 30.2981372,
+    "Occurred Date": "06/24/2021",
+    "Address": "7201 E MEADOW BEND DR",
+    "Zip Code": 78724,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.70517709,
+    "Latitude": 30.33219866,
+    "Occurred Date": "02/14/2021",
+    "Address": "7100 N IH 35 SVRD SB",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69313596,
+    "Latitude": 30.20934826,
+    "Occurred Date": "10/06/2021",
+    "Address": "2827 PALOMINO TRL",
+    "Zip Code": 78744,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69552226,
+    "Latitude": 30.32547926,
+    "Occurred Date": "01/11/2021",
+    "Address": "6900 BLOCK GRAND CANYON DR",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.83820902,
+    "Latitude": 30.43679351,
+    "Occurred Date": "03/31/2021",
+    "Address": "9715 N FM 620 RD",
+    "Zip Code": 78726,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.64198083,
+    "Latitude": 30.32884413,
+    "Occurred Date": "09/03/2021",
+    "Address": "9345 E US 290 HWY SVRD EB",
+    "Zip Code": 78724,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67203122,
+    "Latitude": 30.42161507,
+    "Occurred Date": "09/04/2021",
+    "Address": "9400 N IH 35 NB",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69098571,
+    "Latitude": 30.32755039,
+    "Occurred Date": "06/27/2021",
+    "Address": "7247 CAMERON RD",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.68200396,
+    "Latitude": 30.28300412,
+    "Occurred Date": "09/20/2021",
+    "Address": "4711 BANDERA RD",
+    "Zip Code": 78721,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69320873,
+    "Latitude": 30.37063409,
+    "Occurred Date": "08/02/2021",
+    "Address": "10102 N LAMAR BLVD",
+    "Zip Code": 78758,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.81580711,
+    "Latitude": 30.20069652,
+    "Occurred Date": "05/31/2021",
+    "Address": "2511 GREENLAND LN",
+    "Zip Code": 78745,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.79545564,
+    "Latitude": 30.20594937,
+    "Occurred Date": "04/26/2021",
+    "Address": "6240 BOXCAR RUN",
+    "Zip Code": 78745,
+    "Highest Offense Description": "CAPITAL MURDER",
+    "Highest Offense Code": 101
+  },
+  {
+    "Longitude": -97.73762972,
+    "Latitude": 30.20936128,
+    "Occurred Date": "06/11/2021",
+    "Address": "4123 TODD LN",
+    "Zip Code": 78744,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73961811,
+    "Latitude": 30.23755668,
+    "Occurred Date": "07/23/2021",
+    "Address": "2000 S IH 35 SVRD SB",
+    "Zip Code": 78704,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.79199208,
+    "Latitude": 30.20568816,
+    "Occurred Date": "03/25/2021",
+    "Address": "1109 KENYON DR",
+    "Zip Code": 78745,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.70065719,
+    "Latitude": 30.34992284,
+    "Occurred Date": "03/18/2021",
+    "Address": "106 OERTLI LN",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69196728,
+    "Latitude": 30.36685701,
+    "Occurred Date": "10/03/2021",
+    "Address": "502 W LONGSPUR BLVD",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.71375392,
+    "Latitude": 30.34515237,
+    "Occurred Date": "09/12/2021",
+    "Address": "7601 N LAMAR BLVD SVRD NB",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.7247236,
+    "Latitude": 30.23617884,
+    "Occurred Date": "09/01/2021",
+    "Address": "2400 E RIVERSIDE DR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.78036385,
+    "Latitude": 30.18703535,
+    "Occurred Date": "11/08/2021",
+    "Address": "7201 S CONGRESS AVE",
+    "Zip Code": 78745,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.60925692,
+    "Latitude": 30.37814755,
+    "Occurred Date": "11/08/2021",
+    "Address": "12706 HARRIS BRANCH PKWY",
+    "Zip Code": 78653,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.71651845,
+    "Latitude": 30.23973544,
+    "Occurred Date": "01/22/2021",
+    "Address": "4600 ELMONT DR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.74843013,
+    "Latitude": 30.26962764,
+    "Occurred Date": "09/12/2021",
+    "Address": "W 6TH ST / NUECES ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.89925021,
+    "Latitude": 30.18661983,
+    "Occurred Date": "11/12/2021",
+    "Address": "6516 ADEN LN",
+    "Zip Code": 78739,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67880085,
+    "Latitude": 30.31512549,
+    "Occurred Date": "03/27/2021",
+    "Address": "6601 BRADLEY DR",
+    "Zip Code": 78723,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.72094889,
+    "Latitude": 30.33532359,
+    "Occurred Date": "11/08/2021",
+    "Address": "6712 N LAMAR BLVD",
+    "Zip Code": 78757,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.74364355,
+    "Latitude": 30.36620832,
+    "Occurred Date": "08/11/2021",
+    "Address": "8100 N MOPAC EXPY SVRD SB",
+    "Zip Code": 78759,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67805181,
+    "Latitude": 30.30755468,
+    "Occurred Date": "02/02/2021",
+    "Address": "6103 MANOR RD",
+    "Zip Code": 78723,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.72683724,
+    "Latitude": 30.23931325,
+    "Occurred Date": "03/21/2021",
+    "Address": "2209 E RIVERSIDE DR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73799564,
+    "Latitude": 30.26704868,
+    "Occurred Date": "05/02/2021",
+    "Address": "500 E 6TH ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.62877532,
+    "Latitude": 30.29479946,
+    "Occurred Date": "09/27/2021",
+    "Address": "8408 GARCREEK CIR",
+    "Zip Code": 78724,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.71606489,
+    "Latitude": 30.29352029,
+    "Occurred Date": "08/01/2021",
+    "Address": "1400 E 38TH HALF ST",
+    "Zip Code": 78722,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.68595659,
+    "Latitude": 30.3603907,
+    "Occurred Date": "10/09/2021",
+    "Address": "9601 N IH 35 SVRD NB",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.68895763,
+    "Latitude": 30.31721666,
+    "Occurred Date": "10/23/2021",
+    "Address": "6407 HICKMAN AVE",
+    "Zip Code": 78723,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69041232,
+    "Latitude": 30.32903752,
+    "Occurred Date": "02/16/2021",
+    "Address": "CAMERON RD / CORONADO HILLS DR",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.66177366,
+    "Latitude": 30.28044967,
+    "Occurred Date": "05/15/2021",
+    "Address": "4511 LITTLE HILL CIR",
+    "Zip Code": 78725,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69887365,
+    "Latitude": 30.36030464,
+    "Occurred Date": "06/16/2021",
+    "Address": "9036 N LAMAR BLVD",
+    "Zip Code": 78758,
+    "Highest Offense Description": "CAPITAL MURDER",
+    "Highest Offense Code": 101
+  },
+  {
+    "Longitude": -97.75876698,
+    "Latitude": 30.24178794,
+    "Occurred Date": "10/31/2021",
+    "Address": "526 W OLTORF ST",
+    "Zip Code": 78704,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.68649848,
+    "Latitude": 30.33186118,
+    "Occurred Date": "09/09/2021",
+    "Address": "7701 CAMERON RD",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67585857,
+    "Latitude": 30.37856547,
+    "Occurred Date": "10/27/2021",
+    "Address": "11400 N IH 35 SVRD SB",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69591153,
+    "Latitude": 30.20395426,
+    "Occurred Date": "02/15/2021",
+    "Address": "7013 TONKA LN",
+    "Zip Code": 78744,
+    "Highest Offense Description": "CAPITAL MURDER",
+    "Highest Offense Code": 101
+  },
+  {
+    "Longitude": -97.69694417,
+    "Latitude": 30.36417602,
+    "Occurred Date": "04/14/2021",
+    "Address": "9422 N LAMAR BLVD",
+    "Zip Code": 78758,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.71480249,
+    "Latitude": 30.3377148,
+    "Occurred Date": "11/04/2021",
+    "Address": "601 W ST JOHNS AVE",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.62919219,
+    "Latitude": 30.29462672,
+    "Occurred Date": "11/01/2021",
+    "Address": "8404 GARCREEK CIR",
+    "Zip Code": 78724,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.88732546,
+    "Latitude": 30.24674667,
+    "Occurred Date": "11/04/2021",
+    "Address": "8220 W SH 71",
+    "Zip Code": 78735,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.77026779,
+    "Latitude": 30.17952332,
+    "Occurred Date": "04/06/2021",
+    "Address": "7330 BLUFF SPRINGS RD",
+    "Zip Code": 78744,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73613182,
+    "Latitude": 30.26695865,
+    "Occurred Date": "03/14/2021",
+    "Address": "617 E 7TH ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.75437566,
+    "Latitude": 30.42460539,
+    "Occurred Date": "03/22/2021",
+    "Address": "11901 PAVILION BLVD",
+    "Zip Code": 78759,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73825313,
+    "Latitude": 30.26678161,
+    "Occurred Date": "06/07/2021",
+    "Address": "E 6TH ST / NECHES ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73467173,
+    "Latitude": 30.26681904,
+    "Occurred Date": "05/20/2021",
+    "Address": "E 7TH ST / N IH 35 SVRD SB",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73825313,
+    "Latitude": 30.26678161,
+    "Occurred Date": "07/17/2021",
+    "Address": "E 6TH ST / NECHES ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.70517709,
+    "Latitude": 30.33219866,
+    "Occurred Date": "02/06/2021",
+    "Address": "7100 N IH 35 SVRD SB",
+    "Zip Code": 78752,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73276777,
+    "Latitude": 30.23234342,
+    "Occurred Date": "09/01/2021",
+    "Address": "2100 BURTON DR",
+    "Zip Code": 78741,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.73909331,
+    "Latitude": 30.26735144,
+    "Occurred Date": "06/12/2021",
+    "Address": "400 E 6TH ST",
+    "Zip Code": 78701,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.69034135,
+    "Latitude": 30.27676798,
+    "Occurred Date": "06/23/2021",
+    "Address": "3811 E 12TH ST",
+    "Zip Code": 78721,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.68327579,
+    "Latitude": 30.33733388,
+    "Occurred Date": "09/14/2021",
+    "Address": "CAMERON RD / RUTHERFORD LN",
+    "Zip Code": 78754,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.67879401,
+    "Latitude": 30.40860001,
+    "Occurred Date": "06/25/2021",
+    "Address": "1100 W PARMER LN",
+    "Zip Code": 78753,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  },
+  {
+    "Longitude": -97.70803637,
+    "Latitude": 30.35284649,
+    "Occurred Date": "07/07/2021",
+    "Address": "8305 SWALLOW CT",
+    "Zip Code": 78758,
+    "Highest Offense Description": "MURDER",
+    "Highest Offense Code": 100
+  }
+]
