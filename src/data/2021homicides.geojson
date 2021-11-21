@@ -1,395 +1,1055 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.69494943155097,
-                    30.32633089073543,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #1",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7000-block-grand-canyon-drive\">http://www.austintexas.gov/news/homicide-7000-block-grand-canyon-drive</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.78735067089119,
-                    30.21875655769843,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #2",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-5000-brighton-road\">http://www.austintexas.gov/news/homicide-5000-brighton-road</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.71736888986983,
-                    30.2384853715651,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "homicde #3",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-4600-elmont-drive\">http://www.austintexas.gov/news/homicide-4600-elmont-drive</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.75564439414735,
-                    30.30901580403473,
-                    48
-                ]
-            },
-            "properties": {
-                "name": "homicde #4",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1912-w-35th-street\">http://www.austintexas.gov/news/homicide-1912-w-35th-street</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.700998099995,
-                    30.36974769974557,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "homicde #5",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1126-mearns-meadow\">http://www.austintexas.gov/news/homicide-1126-mearns-meadow</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.67834363014912,
-                    30.30724602005649,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "homicide #6",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-6103-manor-road\">http://www.austintexas.gov/news/homicide-6103-manor-road</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.72983736340628,
-                    30.23029924359017,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #7",
-                "description": "<a href=\"http://austintexas.gov/news/homicide-2201-willow-creek-dr\">austintexas.gov/news/homicide-2201-willow-creek-dr</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.70529996056818,
-                    30.33234160860814,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "homicide #8",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7100-block-n-ih-35-svrd-sb\">http://www.austintexas.gov/news/homicide-7100-block-n-ih-35-svrd-sb</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.72296743515949,
-                    30.28862529275488,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #9",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-4200-block-s-ih-35-svrd-sb\">http://www.austintexas.gov/news/homicide-4200-block-s-ih-35-svrd-sb</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.69056471600268,
-                    30.32905883418469,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #10",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-cameron-road-and-mckie-drive\">http://www.austintexas.gov/news/homicide-cameron-road-and-mckie-drive</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.69699374292597,
-                    30.20310186290174,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #11",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7000-block-tonka-lane\">http://www.austintexas.gov/news/homicide-7000-block-tonka-lane</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.71776459578426,
-                    30.33934479539794,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #12",
-                "description": "<a href=\"http://austintexas.gov/news/homicide-800-block-w-st-johns-avenue\">austintexas.gov/news/homicide-800-block-w-st-johns-avenue</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.73624091172647,
-                    30.26701438266003,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #13",
-                "description": "<a href=\"https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data\">https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.70060590059788,
-                    30.34981071397068,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #14",
-                "description": "<a href=\"https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data\">https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/data</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.72661335010037,
-                    30.23897973888241,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #15",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-2200-block-e-riverside-drive\">http://www.austintexas.gov/news/homicide-2200-block-e-riverside-drive</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.75569192219554,
-                    30.42469620113209,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #16",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-11900-block-pavilion-blvd\">http://www.austintexas.gov/news/homicide-11900-block-pavilion-blvd</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.79201271371161,
-                    30.20571604934064,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #17",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-1100-block-kenyon-drive\">http://www.austintexas.gov/news/homicide-1100-block-kenyon-drive</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.67893413687946,
-                    30.31544428935332,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #18",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-6600-block-bradley-dr\">http://www.austintexas.gov/news/homicide-6600-block-bradley-dr</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.67835186736458,
-                    30.37469209369873,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #19",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-11100-block-n-ih-35-svrd\">http://www.austintexas.gov/news/homicide-11100-block-n-ih-35-svrd</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.83670739306731,
-                    30.43628594025407,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #20",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-9700-block-n-fm-620\">austintexas.gov/news/homicide-9700-block-n-fm-620</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.71978999707109,
-                    30.29364813025807,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #21",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-12000-block-dessau-road\">http://www.austintexas.gov/news/homicide-12000-block-dessau-road</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.76995399996792,
-                    30.18065919965601,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Homicide #22",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-7300-block-bluff-springs-rd\">http://www.austintexas.gov/news/homicide-7300-block-bluff-springs-rd</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.698061500154,
-                    30.36454770030493,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #23",
-                "description": "<a href=\"http://www.austintexas.gov/news/homicide-9400-block-north-lamar-blvd\">http://www.austintexas.gov/news/homicide-9400-block-north-lamar-blvd</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.74751323540919,
-                    30.39477927078712,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #24",
-                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.74736974921427,
-                    30.3951951374641,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #25",
-                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.74789850183788,
-                    30.39470626540244,
-                    50.00000000000001
-                ]
-            },
-            "properties": {
-                "name": "Homicide #26",
-                "description": "<a href=\"https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway\">https://www.austintexas.gov/news/triple-homicide-great-hills-trail-and-rain-creek-parkway</a>"
-            }
-        }
-    ]
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7210571,30.22664019 ]
+    },
+    "properties": {
+    "Occurred Date":"03/07/2021",
+    "Address":"2430 CROMWELL CIR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6701978,30.29017709 ]
+    },
+    "properties": {
+    "Occurred Date":"05/05/2021",
+    "Address":"5200 BLOCK TOWER TRL",
+    "Zip Code":78723,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.82826927,30.15003075 ]
+    },
+    "properties": {
+    "Occurred Date":"06/20/2021",
+    "Address":"11517 ROBERT WOODING DR",
+    "Zip Code":78748,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.80220254,30.4494991 ]
+    },
+    "properties": {
+    "Occurred Date":"07/12/2021",
+    "Address":"10242 MISSEL THRUSH DR",
+    "Zip Code":78750,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75570273,30.30899939 ]
+    },
+    "properties": {
+    "Occurred Date":"01/26/2021",
+    "Address":"1912 W 35TH ST",
+    "Zip Code":78731,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7189541,30.33966701 ]
+    },
+    "properties": {
+    "Occurred Date":"02/28/2021",
+    "Address":"811 W ST JOHNS AVE",
+    "Zip Code":78757,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73619041,30.26654729 ]
+    },
+    "properties": {
+    "Occurred Date":"10/09/2021",
+    "Address":"600 BLOCK SABINE ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7537948,30.21494929 ]
+    },
+    "properties": {
+    "Occurred Date":"02/16/2021",
+    "Address":"4200 S IH 35 SVRD SB",
+    "Zip Code":78745,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.79982192,30.43500194 ]
+    },
+    "properties": {
+    "Occurred Date":"10/26/2021",
+    "Address":"11001 SPICEWOOD PKWY",
+    "Zip Code":78750,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.72811131,30.23059859 ]
+    },
+    "properties": {
+    "Occurred Date":"02/03/2021",
+    "Address":"2400 BLOCK ANKEN DR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.76756789,30.13885561 ]
+    },
+    "properties": {
+    "Occurred Date":"10/18/2021",
+    "Address":"5828 ABBY ANN LN",
+    "Zip Code":78747,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6230618,30.33133078 ]
+    },
+    "properties": {
+    "Occurred Date":"05/23/2021",
+    "Address":"9600 BLOCK E US 290 HWY SVRD WB",
+    "Zip Code":78754,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67683667,30.37472693 ]
+    },
+    "properties": {
+    "Occurred Date":"03/28/2021",
+    "Address":"11105 N IH 35 SVRD NB",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75416032,30.39541162 ]
+    },
+    "properties": {
+    "Occurred Date":"04/18/2021",
+    "Address":"9600 GREAT HILLS TRL",
+    "Zip Code":78759,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.76304468,30.15200201 ]
+    },
+    "properties": {
+    "Occurred Date":"04/29/2021",
+    "Address":"2022 E SLAUGHTER LN",
+    "Zip Code":78747,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70116627,30.37008253 ]
+    },
+    "properties": {
+    "Occurred Date":"01/29/2021",
+    "Address":"1126 MEARNS MEADOW BLVD",
+    "Zip Code":78758,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71738905,30.37306027 ]
+    },
+    "properties": {
+    "Occurred Date":"06/12/2021",
+    "Address":"1930 W RUNDBERG LN",
+    "Zip Code":78758,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.62637116,30.2981372 ]
+    },
+    "properties": {
+    "Occurred Date":"06/24/2021",
+    "Address":"7201 E MEADOW BEND DR",
+    "Zip Code":78724,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70517709,30.33219866 ]
+    },
+    "properties": {
+    "Occurred Date":"02/14/2021",
+    "Address":"7100 N IH 35 SVRD SB",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69313596,30.20934826 ]
+    },
+    "properties": {
+    "Occurred Date":"10/06/2021",
+    "Address":"2827 PALOMINO TRL",
+    "Zip Code":78744,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69552226,30.32547926 ]
+    },
+    "properties": {
+    "Occurred Date":"01/11/2021",
+    "Address":"6900 BLOCK GRAND CANYON DR",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.83820902,30.43679351 ]
+    },
+    "properties": {
+    "Occurred Date":"03/31/2021",
+    "Address":"9715 N FM 620 RD",
+    "Zip Code":78726,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.64198083,30.32884413 ]
+    },
+    "properties": {
+    "Occurred Date":"09/03/2021",
+    "Address":"9345 E US 290 HWY SVRD EB",
+    "Zip Code":78724,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67203122,30.42161507 ]
+    },
+    "properties": {
+    "Occurred Date":"09/04/2021",
+    "Address":"9400 N IH 35 NB",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69098571,30.32755039 ]
+    },
+    "properties": {
+    "Occurred Date":"06/27/2021",
+    "Address":"7247 CAMERON RD",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68200396,30.28300412 ]
+    },
+    "properties": {
+    "Occurred Date":"09/20/2021",
+    "Address":"4711 BANDERA RD",
+    "Zip Code":78721,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69320873,30.37063409 ]
+    },
+    "properties": {
+    "Occurred Date":"08/02/2021",
+    "Address":"10102 N LAMAR BLVD",
+    "Zip Code":78758,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.81580711,30.20069652 ]
+    },
+    "properties": {
+    "Occurred Date":"05/31/2021",
+    "Address":"2511 GREENLAND LN",
+    "Zip Code":78745,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.79545564,30.20594937 ]
+    },
+    "properties": {
+    "Occurred Date":"04/26/2021",
+    "Address":"6240 BOXCAR RUN",
+    "Zip Code":78745,
+    "Highest Offense Description":"CAPITAL MURDER",
+    "Highest Offense Code":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73762972,30.20936128 ]
+    },
+    "properties": {
+    "Occurred Date":"06/11/2021",
+    "Address":"4123 TODD LN",
+    "Zip Code":78744,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73961811,30.23755668 ]
+    },
+    "properties": {
+    "Occurred Date":"07/23/2021",
+    "Address":"2000 S IH 35 SVRD SB",
+    "Zip Code":78704,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.79199208,30.20568816 ]
+    },
+    "properties": {
+    "Occurred Date":"03/25/2021",
+    "Address":"1109 KENYON DR",
+    "Zip Code":78745,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70065719,30.34992284 ]
+    },
+    "properties": {
+    "Occurred Date":"03/18/2021",
+    "Address":"106 OERTLI LN",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69196728,30.36685701 ]
+    },
+    "properties": {
+    "Occurred Date":"10/03/2021",
+    "Address":"502 W LONGSPUR BLVD",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71375392,30.34515237 ]
+    },
+    "properties": {
+    "Occurred Date":"09/12/2021",
+    "Address":"7601 N LAMAR BLVD SVRD NB",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7247236,30.23617884 ]
+    },
+    "properties": {
+    "Occurred Date":"09/01/2021",
+    "Address":"2400 E RIVERSIDE DR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.78036385,30.18703535 ]
+    },
+    "properties": {
+    "Occurred Date":"11/08/2021",
+    "Address":"7201 S CONGRESS AVE",
+    "Zip Code":78745,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.60925692,30.37814755 ]
+    },
+    "properties": {
+    "Occurred Date":"11/08/2021",
+    "Address":"12706 HARRIS BRANCH PKWY",
+    "Zip Code":78653,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71651845,30.23973544 ]
+    },
+    "properties": {
+    "Occurred Date":"01/22/2021",
+    "Address":"4600 ELMONT DR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74843013,30.26962764 ]
+    },
+    "properties": {
+    "Occurred Date":"09/12/2021",
+    "Address":"W 6TH ST / NUECES ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.89925021,30.18661983 ]
+    },
+    "properties": {
+    "Occurred Date":"11/12/2021",
+    "Address":"6516 ADEN LN",
+    "Zip Code":78739,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67880085,30.31512549 ]
+    },
+    "properties": {
+    "Occurred Date":"03/27/2021",
+    "Address":"6601 BRADLEY DR",
+    "Zip Code":78723,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.72094889,30.33532359 ]
+    },
+    "properties": {
+    "Occurred Date":"11/08/2021",
+    "Address":"6712 N LAMAR BLVD",
+    "Zip Code":78757,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74364355,30.36620832 ]
+    },
+    "properties": {
+    "Occurred Date":"08/11/2021",
+    "Address":"8100 N MOPAC EXPY SVRD SB",
+    "Zip Code":78759,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67805181,30.30755468 ]
+    },
+    "properties": {
+    "Occurred Date":"02/02/2021",
+    "Address":"6103 MANOR RD",
+    "Zip Code":78723,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.72683724,30.23931325 ]
+    },
+    "properties": {
+    "Occurred Date":"03/21/2021",
+    "Address":"2209 E RIVERSIDE DR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73799564,30.26704868 ]
+    },
+    "properties": {
+    "Occurred Date":"05/02/2021",
+    "Address":"500 E 6TH ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.62877532,30.29479946 ]
+    },
+    "properties": {
+    "Occurred Date":"09/27/2021",
+    "Address":"8408 GARCREEK CIR",
+    "Zip Code":78724,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71606489,30.29352029 ]
+    },
+    "properties": {
+    "Occurred Date":"08/01/2021",
+    "Address":"1400 E 38TH HALF ST",
+    "Zip Code":78722,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68595659,30.3603907 ]
+    },
+    "properties": {
+    "Occurred Date":"10/09/2021",
+    "Address":"9601 N IH 35 SVRD NB",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68895763,30.31721666 ]
+    },
+    "properties": {
+    "Occurred Date":"10/23/2021",
+    "Address":"6407 HICKMAN AVE",
+    "Zip Code":78723,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69041232,30.32903752 ]
+    },
+    "properties": {
+    "Occurred Date":"02/16/2021",
+    "Address":"CAMERON RD / CORONADO HILLS DR",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.66177366,30.28044967 ]
+    },
+    "properties": {
+    "Occurred Date":"05/15/2021",
+    "Address":"4511 LITTLE HILL CIR",
+    "Zip Code":78725,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69887365,30.36030464 ]
+    },
+    "properties": {
+    "Occurred Date":"06/16/2021",
+    "Address":"9036 N LAMAR BLVD",
+    "Zip Code":78758,
+    "Highest Offense Description":"CAPITAL MURDER",
+    "Highest Offense Code":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75876698,30.24178794 ]
+    },
+    "properties": {
+    "Occurred Date":"10/31/2021",
+    "Address":"526 W OLTORF ST",
+    "Zip Code":78704,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68649848,30.33186118 ]
+    },
+    "properties": {
+    "Occurred Date":"09/09/2021",
+    "Address":"7701 CAMERON RD",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67585857,30.37856547 ]
+    },
+    "properties": {
+    "Occurred Date":"10/27/2021",
+    "Address":"11400 N IH 35 SVRD SB",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69591153,30.20395426 ]
+    },
+    "properties": {
+    "Occurred Date":"02/15/2021",
+    "Address":"7013 TONKA LN",
+    "Zip Code":78744,
+    "Highest Offense Description":"CAPITAL MURDER",
+    "Highest Offense Code":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69694417,30.36417602 ]
+    },
+    "properties": {
+    "Occurred Date":"04/14/2021",
+    "Address":"9422 N LAMAR BLVD",
+    "Zip Code":78758,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71480249,30.3377148 ]
+    },
+    "properties": {
+    "Occurred Date":"11/04/2021",
+    "Address":"601 W ST JOHNS AVE",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.62919219,30.29462672 ]
+    },
+    "properties": {
+    "Occurred Date":"11/01/2021",
+    "Address":"8404 GARCREEK CIR",
+    "Zip Code":78724,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.88732546,30.24674667 ]
+    },
+    "properties": {
+    "Occurred Date":"11/04/2021",
+    "Address":"8220 W SH 71",
+    "Zip Code":78735,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.77026779,30.17952332 ]
+    },
+    "properties": {
+    "Occurred Date":"04/06/2021",
+    "Address":"7330 BLUFF SPRINGS RD",
+    "Zip Code":78744,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73613182,30.26695865 ]
+    },
+    "properties": {
+    "Occurred Date":"03/14/2021",
+    "Address":"617 E 7TH ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75437566,30.42460539 ]
+    },
+    "properties": {
+    "Occurred Date":"03/22/2021",
+    "Address":"11901 PAVILION BLVD",
+    "Zip Code":78759,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73825313,30.26678161 ]
+    },
+    "properties": {
+    "Occurred Date":"06/07/2021",
+    "Address":"E 6TH ST / NECHES ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73467173,30.26681904 ]
+    },
+    "properties": {
+    "Occurred Date":"05/20/2021",
+    "Address":"E 7TH ST / N IH 35 SVRD SB",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73825313,30.26678161 ]
+    },
+    "properties": {
+    "Occurred Date":"07/17/2021",
+    "Address":"E 6TH ST / NECHES ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70517709,30.33219866 ]
+    },
+    "properties": {
+    "Occurred Date":"02/06/2021",
+    "Address":"7100 N IH 35 SVRD SB",
+    "Zip Code":78752,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73276777,30.23234342 ]
+    },
+    "properties": {
+    "Occurred Date":"09/01/2021",
+    "Address":"2100 BURTON DR",
+    "Zip Code":78741,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73909331,30.26735144 ]
+    },
+    "properties": {
+    "Occurred Date":"06/12/2021",
+    "Address":"400 E 6TH ST",
+    "Zip Code":78701,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.69034135,30.27676798 ]
+    },
+    "properties": {
+    "Occurred Date":"06/23/2021",
+    "Address":"3811 E 12TH ST",
+    "Zip Code":78721,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68327579,30.33733388 ]
+    },
+    "properties": {
+    "Occurred Date":"09/14/2021",
+    "Address":"CAMERON RD / RUTHERFORD LN",
+    "Zip Code":78754,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67879401,30.40860001 ]
+    },
+    "properties": {
+    "Occurred Date":"06/25/2021",
+    "Address":"1100 W PARMER LN",
+    "Zip Code":78753,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70803637,30.35284649 ]
+    },
+    "properties": {
+    "Occurred Date":"07/07/2021",
+    "Address":"8305 SWALLOW CT",
+    "Zip Code":78758,
+    "Highest Offense Description":"MURDER",
+    "Highest Offense Code":100
+    }
+  }
+]
 }
