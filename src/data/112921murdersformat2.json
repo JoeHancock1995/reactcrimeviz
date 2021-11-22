@@ -1,0 +1,677 @@
+[
+  {
+    "coordinates": [
+      -97.6701978,
+      30.29017709
+    ],
+    "Occurred Date": "05/05/2021",
+    "Address": "5200 BLOCK TOWER TRL",
+    "Zip Code": 78723
+    },
+  {
+    "coordinates": [
+      -97.82826927,
+      30.15003075
+    ],
+    "Occurred Date": "06/20/2021",
+    "Address": "11517 ROBERT WOODING DR",
+    "Zip Code": 78748
+  },
+  {
+    "coordinates": [
+      -97.80220254,
+      30.4494991
+    ],
+    "Occurred Date": "07/12/2021",
+    "Address": "10242 MISSEL THRUSH DR",
+    "Zip Code": 78750
+  },
+  {
+    "coordinates": [ 
+      -97.75570273,
+      30.30899939
+    ],
+    "Occurred Date": "01/26/2021",
+    "Address": "1912 W 35TH ST",
+    "Zip Code": 78731
+  },
+  {
+    "coordinates": [ 
+      -97.7189541,
+      30.33966701
+    ],
+    "Occurred Date": "02/28/2021",
+    "Address": "811 W ST JOHNS AVE",
+    "Zip Code": 78757
+  },
+  {
+    "coordinates": [ 
+      -97.72811131,
+      30.23059859
+    ],
+    "Occurred Date": "02/03/2021",
+    "Address": "2400 BLOCK ANKEN DR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.69041232,
+      30.32903752
+    ],
+    "Occurred Date": "02/16/2021",
+    "Address": "CAMERON RD / CORONADO HILLS DR",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.60925692,
+      30.37814755
+    ],
+    "Occurred Date": "11/08/2021",
+    "Address": "12706 HARRIS BRANCH PKWY",
+    "Zip Code": 78653
+  },
+  {
+    "coordinates": [ 
+      -97.73619041,
+      30.26654729
+    ],
+    "Occurred Date": "10/09/2021",
+    "Address": "600 BLOCK SABINE ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.7537948,
+      30.21494929
+    ],
+    "Occurred Date": "02/16/2021",
+    "Address": "4200 S IH 35 SVRD SB",
+    "Zip Code": 78745
+  },
+  {
+    "coordinates": [ 
+      -97.71651845,
+      30.23973544
+    ],
+    "Occurred Date": "01/22/2021",
+    "Address": "4600 ELMONT DR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.75416032,
+      30.39541162
+    ],
+    "Occurred Date": "04/18/2021",
+    "Address": "9600 GREAT HILLS TRL",
+    "Zip Code": 78759
+  },
+  {
+    "coordinates": [ 
+      -97.76304468,
+      30.15200201
+      ],
+    "Occurred Date": "04/29/2021",
+    "Address": "2022 E SLAUGHTER LN",
+    "Zip Code": 78747
+  },
+  {
+    "coordinates": [ 
+      -97.89925021,
+      30.18661983
+    ],
+    "Occurred Date": "11/12/2021",
+    "Address": "6516 ADEN LN",
+    "Zip Code": 78739
+  },
+  {
+    "coordinates": [ 
+      -97.79982192,
+      30.43500194
+    ],
+    "Occurred Date": "10/26/2021",
+    "Address": "11001 SPICEWOOD PKWY",
+    "Zip Code": 78750
+  },
+  {
+    "coordinates": [ 
+      -97.72094889,
+      30.33532359
+    ],
+    "Occurred Date": "11/08/2021",
+    "Address": "6712 N LAMAR BLVD",
+    "Zip Code": 78757
+  },
+  {
+    "coordinates": [ 
+      -97.76756789,
+      30.13885561
+    ],
+    "Occurred Date": "10/18/2021",
+    "Address": "5828 ABBY ANN LN",
+    "Zip Code": 78747
+  },
+  {
+    "coordinates": [ 
+      -97.7210571,
+      30.22664019
+    ],
+    "Occurred Date": "03/07/2021",
+    "Address": "2430 CROMWELL CIR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.70116627,
+      30.37008253
+    ],
+    "Occurred Date": "01/29/2021",
+    "Address": "1126 MEARNS MEADOW BLVD",
+    "Zip Code": 78758
+  },
+  {
+    "coordinates": [ 
+      -97.6230618,
+      30.33133078
+    ],
+    "Occurred Date": "05/23/2021",
+    "Address": "9600 BLOCK E US 290 HWY SVRD WB",
+    "Zip Code": 78754
+  },
+  {
+    "coordinates": [ 
+      -97.71738905,
+      30.37306027
+    ],
+    "Occurred Date": "06/12/2021",
+    "Address": "1930 W RUNDBERG LN",
+    "Zip Code": 78758
+  },
+  {
+    "coordinates": [ 
+      -97.70517709,
+      30.33219866
+    ],
+    "Occurred Date": "02/14/2021",
+    "Address": "7100 N IH 35 SVRD SB",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.62637116,
+      30.2981372
+    ],
+    "Occurred Date": "06/24/2021",
+    "Address": "7201 E MEADOW BEND DR",
+    "Zip Code": 78724
+  },
+  {
+    "coordinates": [ 
+      -97.67683667,
+      30.37472693
+    ],
+    "Occurred Date": "03/28/2021",
+    "Address": "11105 N IH 35 SVRD NB",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.69313596,
+      30.20934826
+    ],
+    "Occurred Date": "10/06/2021",
+    "Address": "2827 PALOMINO TRL",
+    "Zip Code": 78744
+  },
+  {
+    "coordinates": [ 
+      -97.69552226,
+      30.32547926
+    ],
+    "Occurred Date": "01/11/2021",
+    "Address": "6900 BLOCK GRAND CANYON DR",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.83820902,
+      30.43679351
+    ],
+    "Occurred Date": "03/31/2021",
+    "Address": "9715 N FM 620 RD",
+    "Zip Code": 78726
+  },
+  {
+    "coordinates": [ 
+      -97.68649848,
+      30.33186118
+    ],
+    "Occurred Date": "09/09/2021",
+    "Address": "7701 CAMERON RD",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.64198083,
+      30.32884413
+    ],
+    "Occurred Date": "09/03/2021",
+    "Address": "9345 E US 290 HWY SVRD EB",
+    "Zip Code": 78724
+  },
+  {
+    "coordinates": [ 
+      -97.67203122,
+      30.42161507
+    ],
+    "Occurred Date": "09/04/2021",
+    "Address": "9400 N IH 35 NB",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.69098571,   
+      30.32755039
+    ],
+    "Occurred Date": "06/27/2021",
+    "Address": "7247 CAMERON RD",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.68200396,
+      30.28300412
+    ],
+    "Occurred Date": "09/20/2021",
+    "Address": "4711 BANDERA RD",
+    "Zip Code": 78721
+  },
+  {
+    "coordinates": [ 
+      -97.69320873,
+      30.37063409
+    ],
+    "Occurred Date": "08/02/2021",
+    "Address": "10102 N LAMAR BLVD",
+    "Zip Code": 78758
+  },
+  {
+    "coordinates": [ 
+      -97.81580711,
+      30.20069652
+    ],
+    "Occurred Date": "05/31/2021",
+    "Address": "2511 GREENLAND LN",
+    "Zip Code": 78745
+  },
+  {
+    "coordinates": [ 
+      -97.79545564,
+      30.20594937
+    ],
+    "Occurred Date": "04/26/2021",
+    "Address": "6240 BOXCAR RUN",
+    "Zip Code": 78745
+  },
+  {
+    "coordinates": [ 
+      -97.73762972,
+      30.20936128
+    ],
+    "Occurred Date": "06/11/2021",
+    "Address": "4123 TODD LN",
+    "Zip Code": 78744
+  },
+  {
+    "coordinates": [ 
+      -97.73961811,
+      30.23755668
+    ],
+    "Occurred Date": "07/23/2021",
+    "Address": "2000 S IH 35 SVRD SB",
+    "Zip Code": 78704
+  },
+  {
+    "coordinates": [ 
+      -97.79199208,
+      30.20568816
+    ],
+    "Occurred Date": "03/25/2021",
+    "Address": "1109 KENYON DR",
+    "Zip Code": 78745
+  },
+  {
+    "coordinates": [ 
+      -97.70065719,
+      30.34992284
+    ],
+    "Occurred Date": "03/18/2021",
+    "Address": "106 OERTLI LN",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.69196728,
+      30.36685701
+    ],
+    "Occurred Date": "10/03/2021",
+    "Address": "502 W LONGSPUR BLVD",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.68595659,
+      30.3603907
+    ],
+    "Occurred Date": "10/09/2021",
+    "Address": "9601 N IH 35 SVRD NB",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.74843013,
+      30.26962764
+    ],
+    "Occurred Date": "09/12/2021",
+    "Address": "W 6TH ST / NUECES ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.67880085,
+      30.31512549
+    ],
+    "Occurred Date": "03/27/2021",
+    "Address": "6601 BRADLEY DR",
+    "Zip Code": 78723
+  },
+  {
+    "coordinates": [ 
+      -97.74364355,
+      30.36620832
+    ],
+    "Occurred Date": "08/11/2021",
+    "Address": "8100 N MOPAC EXPY SVRD SB",
+    "Zip Code": 78759
+  },
+  {
+    "coordinates": [ 
+      -97.67805181,
+      30.30755468
+    ],
+    "Occurred Date": "02/02/2021",
+    "Address": "6103 MANOR RD",
+    "Zip Code": 78723
+  },
+  {
+    "coordinates": [ 
+      -97.72683724,
+      30.23931325
+    ],
+    "Occurred Date": "03/21/2021",
+    "Address": "2209 E RIVERSIDE DR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.73799564,
+      30.26704868
+    ],
+    "Occurred Date": "05/02/2021",
+    "Address": "500 E 6TH ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.62877532,
+      30.29479946
+    ],
+    "Occurred Date": "09/27/2021",
+    "Address": "8408 GARCREEK CIR",
+    "Zip Code": 78724
+  },
+  {
+    "coordinates": [ 
+      -97.71606489,
+      30.29352029
+    ],
+    "Occurred Date": "08/01/2021",
+    "Address": "1400 E 38TH HALF ST",
+    "Zip Code": 78722
+  },
+  {
+    "coordinates": [ 
+      -97.71375392,
+      30.34515237
+    ],
+    "Occurred Date": "09/12/2021",
+    "Address": "7601 N LAMAR BLVD SVRD NB",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.68895763,
+      30.31721666
+    ],
+    "Occurred Date": "10/23/2021",
+    "Address": "6407 HICKMAN AVE",
+    "Zip Code": 78723
+  },
+  {
+    "coordinates": [ 
+      -97.66177366,
+      30.28044967
+    ],
+    "Occurred Date": "05/15/2021",
+    "Address": "4511 LITTLE HILL CIR",
+    "Zip Code": 78725
+  },
+  {
+    "coordinates": [ 
+      -97.69887365,
+      30.36030464
+    ],
+    "Occurred Date": "06/16/2021",
+    "Address": "9036 N LAMAR BLVD",
+    "Zip Code": 78758
+  },
+  {
+    "coordinates": [ 
+      -97.75876698,
+      30.24178794
+    ],
+    "Occurred Date": "10/31/2021",
+    "Address": "526 W OLTORF ST",
+    "Zip Code": 78704
+  },
+  {
+    "coordinates": [ 
+      -97.67585857,
+      30.37856547
+    ],
+    "Occurred Date": "10/27/2021",
+    "Address": "11400 N IH 35 SVRD SB",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.69591153,
+      30.20395426
+    ],
+    "Occurred Date": "02/15/2021",
+    "Address": "7013 TONKA LN",
+    "Zip Code": 78744
+  },
+  {
+    "coordinates": [ 
+      -97.69694417,
+      30.36417602
+    ],
+    "Occurred Date": "04/14/2021",
+    "Address": "9422 N LAMAR BLVD",
+    "Zip Code": 78758
+  },
+  {
+    "coordinates": [ 
+      -97.71480249,
+      30.3377148
+    ],
+    "Occurred Date": "11/04/2021",
+    "Address": "601 W ST JOHNS AVE",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.62919219,
+      30.29462672
+    ],
+    "Occurred Date": "11/01/2021",
+    "Address": "8404 GARCREEK CIR",
+    "Zip Code": 78724
+  },
+  {
+    "coordinates": [ 
+      -97.88732546,
+      30.24674667
+    ],
+    "Occurred Date": "11/04/2021",
+    "Address": "8220 W SH 71",
+    "Zip Code": 78735
+  },
+  {
+    "coordinates": [ 
+      -97.77026779,
+      30.17952332
+    ],
+    "Occurred Date": "04/06/2021",
+    "Address": "7330 BLUFF SPRINGS RD",
+    "Zip Code": 78744
+  },
+  {
+    "coordinates": [ 
+      -97.73613182,
+      30.26695865
+    ],
+    "Occurred Date": "03/14/2021",
+    "Address": "617 E 7TH ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.7247236,
+      30.23617884
+    ],
+    "Occurred Date": "09/01/2021",
+    "Address": "2400 E RIVERSIDE DR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.78036385,
+      30.18703535
+    ],
+    "Occurred Date": "11/08/2021",
+    "Address": "7201 S CONGRESS AVE",
+    "Zip Code": 78745
+  },
+  {
+    "coordinates": [ 
+      -97.75437566,
+      30.42460539
+    ],
+    "Occurred Date": "03/22/2021",
+    "Address": "11901 PAVILION BLVD",
+    "Zip Code": 78759
+  },
+  {
+    "coordinates": [ 
+      -97.73825313,
+      30.26678161
+    ],
+    "Occurred Date": "06/07/2021",
+    "Address": "E 6TH ST / NECHES ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.73467173,
+      30.26681904
+    ],
+    "Occurred Date": "05/20/2021",
+    "Address": "E 7TH ST / N IH 35 SVRD SB",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.73825313,
+      30.26678161
+    ],
+    "Occurred Date": "07/17/2021",
+    "Address": "E 6TH ST / NECHES ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.70517709,
+      30.33219866
+    ],
+    "Occurred Date": "02/06/2021",
+    "Address": "7100 N IH 35 SVRD SB",
+    "Zip Code": 78752
+  },
+  {
+    "coordinates": [ 
+      -97.73276777,
+      30.23234342
+    ],
+    "Occurred Date": "09/01/2021",
+    "Address": "2100 BURTON DR",
+    "Zip Code": 78741
+  },
+  {
+    "coordinates": [ 
+      -97.73909331,
+      30.26735144
+    ],
+    "Occurred Date": "06/12/2021",
+    "Address": "400 E 6TH ST",
+    "Zip Code": 78701
+  },
+  {
+    "coordinates": [ 
+      -97.69034135,
+      30.27676798
+    ],
+    "Occurred Date": "06/23/2021",
+    "Address": "3811 E 12TH ST",
+    "Zip Code": 78721
+  },
+  {
+    "coordinates": [ 
+      -97.68327579,
+      30.33733388
+    ],
+    "Occurred Date": "09/14/2021",
+    "Address": "CAMERON RD / RUTHERFORD LN",
+    "Zip Code": 78754
+  },
+  {
+    "coordinates": [ 
+      -97.67879401,
+      30.40860001
+    ],
+    "Occurred Date": "06/25/2021",
+    "Address": "1100 W PARMER LN",
+    "Zip Code": 78753
+  },
+  {
+    "coordinates": [ 
+      -97.70803637,
+      30.35284649
+    ],
+    "Occurred Date": "07/07/2021",
+    "Address": "8305 SWALLOW CT",
+    "Zip Code": 78758
+  }
+]

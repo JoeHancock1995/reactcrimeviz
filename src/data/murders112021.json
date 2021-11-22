@@ -1,7 +1,9 @@
 [
   {
-    "Longitude": -97.7210571,
-    "Latitude": 30.22664019,
+  "coordinates": [
+    -97.7210571,
+    30.22664019
+  ],
     "Occurred Date": "03/07/2021",
     "Address": "2430 CROMWELL CIR",
     "Zip Code": 78741,
@@ -9,8 +11,10 @@
     "Highest Offense Code": 100
   },
   {
-    "Longitude": -97.6701978,
-    "Latitude": 30.29017709,
+  "coordinates": [
+    -97.6701978,
+    30.29017709
+  ],
     "Occurred Date": "05/05/2021",
     "Address": "5200 BLOCK TOWER TRL",
     "Zip Code": 78723,
@@ -18,8 +22,10 @@
     "Highest Offense Code": 100
   },
   {
-    "Longitude": -97.82826927,
-    "Latitude": 30.15003075,
+  "coordinates": [
+    -97.82826927,
+    30.15003075
+    ],
     "Occurred Date": "06/20/2021",
     "Address": "11517 ROBERT WOODING DR",
     "Zip Code": 78748,
@@ -27,8 +33,9 @@
     "Highest Offense Code": 100
   },
   {
-    "Longitude": -97.80220254,
-    "Latitude": 30.4494991,
+  "coordinates": 
+    [-97.80220254,
+     30.4494991],
     "Occurred Date": "07/12/2021",
     "Address": "10242 MISSEL THRUSH DR",
     "Zip Code": 78750,
@@ -36,8 +43,10 @@
     "Highest Offense Code": 100
   },
   {
-    "Longitude": -97.75570273,
-    "Latitude": 30.30899939,
+  "coordinates": 
+    [-97.75570273,
+    30.30899939
+    ],
     "Occurred Date": "01/26/2021",
     "Address": "1912 W 35TH ST",
     "Zip Code": 78731,

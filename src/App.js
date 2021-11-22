@@ -1,58 +1,37 @@
 /* global window */
 import * as React from 'react';
+import ReactMapGL, {Marker} from 'react-map-gl';
 import {useState, useCallback} from 'react';
 import {render} from 'react-dom';
 import MapGL from 'react-map-gl';
-// import Pins from './pins';
-import ControlPanel from './control-panel';
-import MAP_STYLE from '../map-style-basic-v8.json';
-// import CITIES from './data/cities.json';
 
-const MAPBOX_TOKEN = 'pk.eyJ1Ijoiam9laGFuY29jazk1IiwiYSI6ImNrdnp1azVvbDE4ODgyeXFpbmMyenU0OTcifQ.IDWTHLIF_B_8ZEC-qtDuMA'; // Set your mapbox token here
 
-function getCursor({isHovering, isDragging}) {
-  return isDragging ? 'grabbing' : isHovering ? 'pointer' : 'default';
-}
 
-export default function App() {
-  const [viewport, setViewport] = useState({
+
+
+
+function App() {
+  const [viewport, setViewport] = React.useState({
     longitude: -97.73,
     latitude: 30.26,
-    zoom: 8,
-    bearing: 0,
-    pitch: 0
+    zoom: 9
   });
-  const [interactiveLayerIds, setInteractiveLayerIds] = useState([]);
-
-  const onInteractiveLayersChange = useCallback(layerFilter => {
-    setInteractiveLayerIds(MAP_STYLE.layers.map(layer => layer.id).filter(layerFilter));
-  }, []);
-
-  const onClick = useCallback(event => {
-    const feature = event.features && event.features[0];
-
-    if (feature) {
-      window.alert(`Clicked layer ${feature.layer.id}`); // eslint-disable-line no-alert
-    }
-  }, []);
-
   return (
-    <>
-      <MapGL
-        {...viewport}
-        width="100%"
-        height="100%"
-        mapStyle={MAP_STYLE}
-        clickRadius={2}
-        onClick={onClick}
-        getCursor={getCursor}
-        interactiveLayerIds={interactiveLayerIds}
-        onViewportChange={setViewport}
-        mapboxApiAccessToken={MAPBOX_TOKEN}
-      />
-       {/* <Pins data={CITIES}/> */}
-      <ControlPanel onChange={onInteractiveLayersChange} />
-    </>
+    <ReactMapGL
+    mapStyle="mapbox://styles/mapbox/dark-v9"
+    mapboxApiAccessToken = {'pk.eyJ1Ijoiam9laGFuY29jazk1IiwiYSI6ImNrdnp1azVvbDE4ODgyeXFpbmMyenU0OTcifQ.IDWTHLIF_B_8ZEC-qtDuMA'} // Set your mapbox token here
+    {...viewport} 
+    width="100vw" 
+    height="100vh" 
+    onViewportChange={setViewport}>
+      <Marker 
+      latitude={30.22664019} 
+      longitude={ -97.7210571} 
+      offsetLeft={-20} 
+      offsetTop={-10}>
+        <img src='https://github.com/JoeHancock1995/reactcrimeviz/blob/main/src/assets/marker.png?raw=true'width={10} height={10}></img>
+      </Marker>
+    </ReactMapGL>
   );
 }
 
