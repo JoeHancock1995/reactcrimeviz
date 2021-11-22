@@ -46,8 +46,8 @@ const scaleControlStyle = {
 export default function App() {
   const [viewport, setViewport] = React.useState({
     longitude: -97.73,
-    latitude: 30.26,
-    zoom: 9
+    latitude: 30.3,
+    zoom: 10
   });
   const [popupInfo, setPopupInfo] = useState(null);
 
@@ -56,10 +56,10 @@ export default function App() {
     <>
     <ReactMapGL
     {...viewport}
-    mapStyle="mapbox://styles/mapbox/dark-v9"
+    mapStyle="../mapbox-gl-styles-master/Moves-map.json"
     mapboxApiAccessToken = {TOKEN} // Set your mapbox token here
     {...viewport} 
-    width="100vw" 
+    width="50vw" 
     height="100vh" 
     onViewportChange={setViewport}
     >
